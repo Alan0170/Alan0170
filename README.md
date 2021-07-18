@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-michel-82155216b/)](https://www.linkedin.com/in/alan-michel-82155216b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alan0170/?hl=pt-br)](https://www.instagram.com/alan0170/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alan0170/?hl=pt-br)](https://www.instagram.com/alan_michelsp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alan.msp22@gmail.com)](mailto:alan.msp22@gmail.com)
 
 ## 🚀💻 Technologies & Tools
