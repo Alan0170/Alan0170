@@ -6,7 +6,7 @@
 
  🔎 🤝Looking for an opportunity as developer
 
- 📚 💻 I'm learning at the moment **Python, HTML, CSS, Javascript, Database, Docker, Linux**
+ 📚 💻 I'm learning at the moment **Python, Database, Docker, Linux, Flask, Django**
 
 <h3 align="left">Connect with me:</h3>
 
