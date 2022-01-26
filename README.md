@@ -4,7 +4,7 @@
 
 
 
- 🔎 🤝Looking for an opportunity as developer
+ 🔎 🤝I currently work at Sky.One Solutions as a software development intern.
 
  📚 💻 I'm learning at the moment **Python, Database, Docker, Linux, Flask, Django**
 
