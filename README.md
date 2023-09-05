@@ -1,13 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan0170&label=Profile%20views&color=0e75b6&style=flat" alt="alan0170" /> </p>
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'am Alan Michel</h1>
-<h3 align="left">Student of systems analysis and development and programming.</h3>
+<h3 align="left">Test and Quality Analyst (QA)</h3>
 
 
 
- 🔎 🤝I currently work at Sky.One Solutions as a software development intern.
-
- 📚 💻 I'm learning at the moment **Python, Database, Docker, Linux, Flask, Django**
-
+ 🔎 🤝I currently work at Sky.One Solutions as a Test and Quality Analyst (QA).
+ 📚 💻 I have knowledge in: **Python, Javascript, Typescript, Cypress, Robot Framework, Rest API, Web Tests, SonarQube, Jenkins, Linux(Ubuntu), Windows, Git.**
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-michel-82155216b/)](https://www.linkedin.com/in/alan-michel-82155216b/)
