@@ -4,7 +4,8 @@
 
 
 
- 🔎 🤝I currently work at Sky.One Solutions as a Test and Quality Analyst (QA).
+ 🔎 🤝I currently work at Sky.One Solutions as a Test and Quality Analyst (QA). 
+ 
  📚 💻 I have knowledge in: **Python, Javascript, Typescript, Cypress, Robot Framework, Rest API, Web Tests, SonarQube, Jenkins, Linux(Ubuntu), Windows, Git.**
 <h3 align="left">Connect with me:</h3>
 
